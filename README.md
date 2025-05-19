@@ -26,3 +26,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AuthorGG&layout=compact&theme=radical)](https://github.com/AuthorGG)
 
 ---
+## 📄 CV
+My CV:  
+👉 [CarlosCurielCV.pdf](./carlos_curiel_webdev_eng_esp.pdf)
