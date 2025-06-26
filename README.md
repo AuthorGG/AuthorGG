@@ -37,4 +37,4 @@
 ---
 ## 📄 CV
 My CV:  
-👉 [CarlosCurielCV.pdf](./carlos_curiel_webdev_eng_esp.pdf)
+👉 ![My CV](https://authorgg.github.io/CV-Carlos-Curiel/#/about)
