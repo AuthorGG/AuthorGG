@@ -36,5 +36,4 @@
 
 ---
 ## 📄 CV
-My CV:  
-👉 ![My CV](https://authorgg.github.io/CV-Carlos-Curiel/#/about)
+Check my interactive CV here! 👉 [CV de Carlos Curiel](https://authorgg.github.io/CV-Carlos-Curiel/#/about)
